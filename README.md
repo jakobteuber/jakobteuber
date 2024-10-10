@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" alt="Bash"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="40" alt="LaTeX"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-teuber&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobteuber&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
